@@ -1,0 +1,35 @@
+
+body{
+    margin: 10%
+}
+.header {
+    background: url(pics/pattern.jpg);
+}
+.brushes {
+    background: mediumspringgreen;
+
+}
+.frames {
+    background: lightcoral;
+
+}
+.paint {
+    background: skyblue
+}
+h3 {
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+h1 {
+    font-family: Helvetica;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+}
+span {
+    font-family: Helvetica;
+    font-weight: bold;
+    color: blue;
+}
